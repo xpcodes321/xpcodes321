@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xpcodes321. I am a new learner in the world of coding and tech. 
+- 👋 Hi, I’m @xpcodes321. 
 - 👀 I’m interested in ...  building my platform on GitHub. 
 - 🌱 I’m currently learning ... python and javascript. 
 - 💞️ I’m looking to collaborate on ... any projects.. 
