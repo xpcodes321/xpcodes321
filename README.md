@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xpcodes321
-- 👀 I’m interested in ...  building my knowledge and career. 
-- 🌱 I’m currently learning ... python, java, javascript, SQL, RUBI, CSS and more.
-- 💞️ I’m looking to collaborate on ... any projects that are beginner friendly or with a team that's willing to teach and is helpful. 
+- 👋 Hi, I’m @xpcodes321. I am a fairly new student in the world of coding and tech. 
+- 👀 I’m interested in ...  developing my skills and knowledge. 
+- 🌱 I’m currently learning ... python and javascript and more.
+- 💞️ I’m looking to collaborate on ... any projects that are beginner friendly or with a team that's willing to teach a new beginner like me. 
 - 📫 How to reach me ...xpcodes321@gmail.com
 
 <!---
