@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xpcodes321. 
-- 👀 I’m interested in ...  building my platform on GitHub. 
+- 👀 I’m interested in ...  building projects and my portfolio. 
 - 🌱 I’m currently learning ... python and javascript. 
 - 💞️ I’m looking to collaborate on ... any projects.. 
 - 📫 How to reach me ...xpcodes321@gmail.com
