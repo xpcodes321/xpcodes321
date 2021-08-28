@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xpcodes321. 
+- 👋 Hi, I’m Pauline. 
 - 👀 I’m interested in ...  building projects and my portfolio. 
 - 🌱 I’m currently learning ... python and javascript. 
 - 💞️ I’m looking to collaborate on ... any projects.. 
